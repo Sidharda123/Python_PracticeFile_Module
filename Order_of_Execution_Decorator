@@ -1,0 +1,21 @@
+def dec1(func):
+    def wrap(*args, **kwargs):
+        print("Decorator1 before Function Call")
+        func(*args, **kwargs)
+        print("Decorator1 after Function Call")
+    return wrap
+
+def dec2(func):
+    def wrap(*args, **kwargs):
+        print("Decorator2 before Function Call")
+        func(*args, **kwargs)
+        print("Decorator2 after Function Call")
+    return wrap
+
+
+@dec1
+@dec2
+def mul(a,b):
+    print(a*b)
+
+mul(11,11)

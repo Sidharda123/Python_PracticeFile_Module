@@ -13,4 +13,4 @@ def add_div(a, b):
     print(e)
     return e
 
-add_div(4,6)
+add_multiply(4,6)
