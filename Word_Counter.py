@@ -6,7 +6,7 @@ def word_count(sentence, N):
     lst = list(sentence)
     new_list = []
     for item in lst:
-        if (ord(item)>= 97 and ord(item)<=122) or item == " ":
+        if(item == " " or ( 97 <= ord(item) <= 122)):
             new_list.append(item)
             
     new_list = "".join(new_list)
