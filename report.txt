@@ -1,0 +1,21 @@
+Student ID: 101
+Name: Arjun
+Total Marks: 177
+Average Marks: 88.50
+Highest Scored Subject: Science (92)
+Lowest Scored Subject: Math (85)
+
+Student ID: 102
+Name: Sneha
+Total Marks: 166
+Average Marks: 83.00
+Highest Scored Subject: Math (88)
+Lowest Scored Subject: English (78)
+
+Student ID: 103
+Name: Ravi
+Total Marks: 56
+Average Marks: 56.00
+Highest Scored Subject: English (56)
+Lowest Scored Subject: English (56)
+

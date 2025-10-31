@@ -1,0 +1,6 @@
+student_id,student_name,subject,marks 
+101,Arjun,Math,85 
+102,Sneha,English,78 
+101,Arjun,Science,92 
+102,Sneha,Math,88 
+103,Ravi,English,56
