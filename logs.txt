@@ -1,0 +1,9 @@
+[2025-11-12 11:22:30] Function create_connection is Executed.
+[2025-11-12 11:22:30] Function create_table is Executed.
+[2025-11-12 11:22:30] Function insert_data is Executed.
+[2025-11-12 11:22:30] Function insert_data is Executed.
+[2025-11-12 11:22:30] Function fetch_full_data is Executed.
+[2025-11-12 11:22:30] Function fetch_specific_row is Executed.
+[2025-11-12 11:22:30] Function update_data is Executed.
+[2025-11-12 11:22:30] Function delete_data is Executed.
+[2025-11-12 11:22:30] Function fetch_full_data is Executed.

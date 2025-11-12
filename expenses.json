@@ -1,0 +1,68 @@
+[
+    {
+        "date": "2025-06-06",
+        "category": "food",
+        "amount": 4588.0,
+        "description": "noodles"
+    },
+    {
+        "date": "2025-06-06",
+        "category": "trave",
+        "amount": 30000.0,
+        "description": "tour"
+    },
+    {
+        "date": "2025-06-06",
+        "category": "travel",
+        "amount": 20000.0,
+        "description": "family trip"
+    },
+    {
+        "date": "2025-06-06",
+        "category": "travel",
+        "amount": 50000.0,
+        "description": "family trip"
+    },
+    {
+        "date": "2025-05-06",
+        "category": "room rent",
+        "amount": 7000.0,
+        "description": "mess fee"
+    },
+    {
+        "date": "2025-11-06",
+        "category": "bile service bill",
+        "amount": 3500.0,
+        "description": "servicing"
+    },
+    {
+        "date": "2025-04-06",
+        "category": "food",
+        "amount": 250.0,
+        "description": "lunch"
+    },
+    {
+        "date": "2025-04-14",
+        "category": "shopping",
+        "amount": 6000.0,
+        "description": "clothes"
+    },
+    {
+        "date": "2025-04-16",
+        "category": "food",
+        "amount": 400.0,
+        "description": "dinner"
+    },
+    {
+        "date": "2025-04-16",
+        "category": "food",
+        "amount": 1200.0,
+        "description": "family dinner"
+    },
+    {
+        "date": "2025-11-07",
+        "category": "food",
+        "amount": 350.0,
+        "description": ""
+    }
+]
